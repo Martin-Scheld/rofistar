@@ -22,6 +22,7 @@ obj <span lang="@/_examples" foreground="grey">@/_examples</span>
 uzby <span lang="@/_examples" foreground="grey">@/_examples</span>
 <span lang='music' foreground='#ffffff' face='Font Awesome'>&#xf1b3;</span> api.chew.pro/trbmb <span lang="@/_examples" foreground="grey">@/_examples</span>
 <span lang='music' foreground='#ffffff' face='Font Awesome'>&#xf074;</span> Random Chuck Norris Joke <span lang="@/_examples" foreground="grey">@/_examples</span>
+strong <span lang="@/html" foreground="grey">@/html</span>
 arch <span lang="@/system" foreground="grey">@/system</span>
 homedir <span lang="@/system" foreground="grey">@/system</span>
 cpus <span lang="@/system" foreground="grey">@/system</span>
