@@ -1,0 +1,33 @@
+camel <span lang="@/case" foreground="grey">@/case</span>
+capital <span lang="@/case" foreground="grey">@/case</span>
+constant <span lang="@/case" foreground="grey">@/case</span>
+dot <span lang="@/case" foreground="grey">@/case</span>
+inverse <span lang="@/case" foreground="grey">@/case</span>
+lower <span lang="@/case" foreground="grey">@/case</span>
+pascal <span lang="@/case" foreground="grey">@/case</span>
+sentence <span lang="@/case" foreground="grey">@/case</span>
+slug <span lang="@/case" foreground="grey">@/case</span>
+snake <span lang="@/case" foreground="grey">@/case</span>
+space <span lang="@/case" foreground="grey">@/case</span>
+title <span lang="@/case" foreground="grey">@/case</span>
+upper <span lang="@/case" foreground="grey">@/case</span>
+foo <span lang="@/_examples" foreground="grey">@/_examples</span>
+date <span lang="@/_examples" foreground="grey">@/_examples</span>
+number <span lang="@/_examples" foreground="grey">@/_examples</span>
+reverse <span lang="@/_examples" foreground="grey">@/_examples</span>
+trim <span lang="@/_examples" foreground="grey">@/_examples</span>
+lines => Array <span lang="@/_examples" foreground="grey">@/_examples</span>
+array <span lang="@/_examples" foreground="grey">@/_examples</span>
+obj <span lang="@/_examples" foreground="grey">@/_examples</span>
+uzby <span lang="@/_examples" foreground="grey">@/_examples</span>
+<span lang='music' foreground='#ffffff' face='Font Awesome'>&#xf1b3;</span> api.chew.pro/trbmb <span lang="@/_examples" foreground="grey">@/_examples</span>
+<span lang='music' foreground='#ffffff' face='Font Awesome'>&#xf074;</span> Random Chuck Norris Joke <span lang="@/_examples" foreground="grey">@/_examples</span>
+arch <span lang="@/system" foreground="grey">@/system</span>
+homedir <span lang="@/system" foreground="grey">@/system</span>
+cpus <span lang="@/system" foreground="grey">@/system</span>
+totalmem <span lang="@/system" foreground="grey">@/system</span>
+freemem <span lang="@/system" foreground="grey">@/system</span>
+platform <span lang="@/system" foreground="grey">@/system</span>
+uptime <span lang="@/system" foreground="grey">@/system</span>
+userInfo <span lang="@/system" foreground="grey">@/system</span>
+networkInterfaces <span lang="@/system" foreground="grey">@/system</span>
